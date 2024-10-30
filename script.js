@@ -1,0 +1,3 @@
+function  mostrarMensaje(seccion){
+    alert(`AQUI PUEDES ENCONTAR ALGUNA INFORAMCION SOBRE LA INTELIGENCIA ARTIFICIAL CON BASE A LA `+seccion);
+}
